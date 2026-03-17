@@ -1,33 +1,3 @@
 [
-  {
-    "id": "kartopu_oyunu",
-    "title": "Kartopu Oyunu",
-    "subtitle": "Eglenceli hedef vurma",
-    "path": "C:/GameModule/Games/Kartopu Oyunu/Kartopu Oyunu.exe",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1FvELDjvf5iTZ9an5MhJcu35pvd5aAwc8",
-    "updateUrl": "https://drive.google.com/uc?export=download&id=1FvELDjvf5iTZ9an5MhJcu35pvd5aAwc8",
-    "version": "1.0",
-    "tags": ["Yılbaşı", "Eğlence"]
-    
-  },
-  {
-    "id": "kostebek",
-    "title": "Köstebek",
-    "subtitle": "Eglenceli hedef vurma",
-    "path": "C:/GameModule/Games/Kostebek/Kostebek.exe",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1S_mxqv40FIWup2dBG05bs6MCLelvDjd6",
-     "updateUrl": "https://drive.google.com/uc?export=download&id=1S_mxqv40FIWup2dBG05bs6MCLelvDjd6",
-    "version": "1.0",
-    "tags": ["Sevimli", "Komik"]
-  },
-  {
-    "id": "Dr. Penguin",
-    "title": "Penguin",
-    "subtitle": "Eglenceli hedef vurma",
-    "path": "C:/GameModule/Games/Kostebek/Kostebek.exe",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1S_mxqv40FIWup2dBG05bs6MCLelvDjd6",
-     "updateUrl": "https://drive.google.com/uc?export=download&id=1S_mxqv40FIWup2dBG05bs6MCLelvDjd6",
-    "version": "1.0",
-    "tags": ["Sevimli", "Komik"]
-  }
+  
 ]
