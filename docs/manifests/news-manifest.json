@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "seasonTitle": "Sezon 01",
+  "gamesTitle": "Oyunlar",
+  "banners": [
+    {
+      "image": "https://MertOzdem.github.io/main/banners/banner1.png",
+      "label": "",
+      "title": "",
+      "description": ""
+    }
+  ]
+}
