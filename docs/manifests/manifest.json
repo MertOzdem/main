@@ -22,5 +22,17 @@
     "iconUrl": "https://MertOzdem.github.io/main/icons/kostebek.png",
     "iconVersion": "2.0",
     "tags": ["Sevimli", "Komik"]
+  },
+    {
+    "id": "deneme",
+    "title": "T-Step",
+    "subtitle": "Eglenceli basamak",
+    "path": "C:/OFFLINE GAME/TStep/TStep.exe",
+    "downloadUrl": "",
+    "updateUrl": "",
+    "version": "2.0",
+    "iconUrl": "",
+    "iconVersion": "2.0",
+    "tags": ["Deneme", "Cursor"]
   }
 ]
