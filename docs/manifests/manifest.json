@@ -168,6 +168,18 @@
     "tags": ["Egitici","EN"]
   },
   {
+    "id": "sebzeler_en",
+    "title": "Sebzeler - İngilizce",
+    "subtitle": "",
+    "path": "Sebzeler EN/Sebzeler EN.exe",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=1Z_oSO12Y2BF-1KyaZppcDhdxFSszf4Ao",
+    "updateUrl": "https://drive.google.com/uc?export=download&id=1Z_oSO12Y2BF-1KyaZppcDhdxFSszf4Ao",
+    "version": "1.0",
+    "iconUrl": "https://MertOzdem.github.io/main/icons/sebzeler.png",
+    "iconVersion": "1.0",
+    "tags": ["Egitici","EN"]
+  },
+  {
     "id": "sekiller_tr",
     "title": "Geometrik Şekiller - Türkçe",
     "subtitle": "",
