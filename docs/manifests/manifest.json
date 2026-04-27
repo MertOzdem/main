@@ -322,5 +322,53 @@
     "iconUrl": "https://MertOzdem.github.io/main/icons/toplama.png",
     "iconVersion": "1.0",
     "tags": ["Egitici","EN"]
+  },
+  {
+    "id": "cikarma_tr",
+    "title": "Çıkarma Oyunu - Türkçe",
+    "subtitle": "",
+    "path": "Cikarma TR/Cikarma TR.exe",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=1p6YAGQo8dRH-oajCoIHAoSWhQobQOSny",
+    "updateUrl": "https://drive.google.com/uc?export=download&id=1p6YAGQo8dRH-oajCoIHAoSWhQobQOSny",
+    "version": "1.0",
+    "iconUrl": "https://MertOzdem.github.io/main/icons/cikarma.png",
+    "iconVersion": "1.0",
+    "tags": ["Egitici","TR"]
+  },
+  {
+    "id": "cikarma_test_tr",
+    "title": "Çıkarma Testi - Türkçe",
+    "subtitle": "",
+    "path": "Cikarma Test TR/Cikarma Test TR.exe",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=1NTHBmdXQ2O6NC7xDHbiLqx2M1_cqZp02",
+    "updateUrl": "https://drive.google.com/uc?export=download&id=1NTHBmdXQ2O6NC7xDHbiLqx2M1_cqZp02",
+    "version": "1.0",
+    "iconUrl": "https://MertOzdem.github.io/main/icons/cikarma.png",
+    "iconVersion": "1.0",
+    "tags": ["Egitici","TR"]
+  },
+  {
+    "id": "cikarma_en",
+    "title": "Çıkarma Oyunu - İngilizce",
+    "subtitle": "",
+    "path": "Cikarma EN/Cikarma EN.exe",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=18h51qljQvFtdQ0-yBOotPl_rjsEW9_IT",
+    "updateUrl": "https://drive.google.com/uc?export=download&id=18h51qljQvFtdQ0-yBOotPl_rjsEW9_IT",
+    "version": "1.0",
+    "iconUrl": "https://MertOzdem.github.io/main/icons/cikarma.png",
+    "iconVersion": "1.0",
+    "tags": ["Egitici","EN"]
+  },
+  {
+    "id": "cikarma_test_en",
+    "title": "Çıkarma Testi - İngilizce",
+    "subtitle": "",
+    "path": "Cikarma Test EN/Cikarma Test EN.exe",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=1hX3CN2s5mqa7HFj6AV1jlSlcq2OGW52z",
+    "updateUrl": "https://drive.google.com/uc?export=download&id=1hX3CN2s5mqa7HFj6AV1jlSlcq2OGW52z",
+    "version": "1.0",
+    "iconUrl": "https://MertOzdem.github.io/main/icons/cikarma.png",
+    "iconVersion": "1.0",
+    "tags": ["Egitici","EN"]
   }
 ]
