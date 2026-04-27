@@ -274,5 +274,53 @@
     "iconUrl": "https://MertOzdem.github.io/main/icons/sayilar.png",
     "iconVersion": "1.0",
     "tags": ["Egitici","EN"]
+  },
+  {
+    "id": "toplama_tr",
+    "title": "Toplama Oyunu - Türkçe",
+    "subtitle": "",
+    "path": "Toplama TR/Toplama TR.exe",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=1ebqGNMESRcqt8XRdj-dUO-S2kJ5C0RlH",
+    "updateUrl": "https://drive.google.com/uc?export=download&id=1ebqGNMESRcqt8XRdj-dUO-S2kJ5C0RlH",
+    "version": "1.0",
+    "iconUrl": "https://MertOzdem.github.io/main/icons/toplama.png",
+    "iconVersion": "1.0",
+    "tags": ["Egitici","TR"]
+  },
+  {
+    "id": "toplama_test_tr",
+    "title": "Toplama Testi - Türkçe",
+    "subtitle": "",
+    "path": "Toplama Test TR/Toplama Test TR.exe",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=1wiDvD2cYG4Ccn9clFNXb4Z470Xn3jAwM",
+    "updateUrl": "https://drive.google.com/uc?export=download&id=1wiDvD2cYG4Ccn9clFNXb4Z470Xn3jAwM",
+    "version": "1.0",
+    "iconUrl": "https://MertOzdem.github.io/main/icons/toplama.png",
+    "iconVersion": "1.0",
+    "tags": ["Egitici","TR"]
+  },
+  {
+    "id": "toplama_en",
+    "title": "Toplama Oyunu - İngilizce",
+    "subtitle": "",
+    "path": "Toplama EN/Toplama EN.exe",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=1I2SoVdKhd-bq8PdvHQRSFCTAnzsYONWV",
+    "updateUrl": "https://drive.google.com/uc?export=download&id=1I2SoVdKhd-bq8PdvHQRSFCTAnzsYONWV",
+    "version": "1.0",
+    "iconUrl": "https://MertOzdem.github.io/main/icons/toplama.png",
+    "iconVersion": "1.0",
+    "tags": ["Egitici","EN"]
+  },
+  {
+    "id": "toplama_test_en",
+    "title": "Toplama Testi - İngilizce",
+    "subtitle": "",
+    "path": "Toplama Test EN/Toplama Test EN.exe",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=1ixmMephSZTcxa1t3S80_c4o-dVJlmVNk",
+    "updateUrl": "https://drive.google.com/uc?export=download&id=1ixmMephSZTcxa1t3S80_c4o-dVJlmVNk",
+    "version": "1.0",
+    "iconUrl": "https://MertOzdem.github.io/main/icons/toplama.png",
+    "iconVersion": "1.0",
+    "tags": ["Egitici","EN"]
   }
 ]
