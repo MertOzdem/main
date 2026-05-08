@@ -48,6 +48,18 @@
     "tags": ["Oyun"]
   },
   {
+    "id": "magic_crush",
+    "title": "Magic Crush",
+    "subtitle": "",
+    "path": "Magic Crush/Magic Crush.exe",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=18ZBONY-8rdwObbxgMu1SzcIc06da8KcV",
+    "updateUrl": "https://drive.google.com/uc?export=download&id=18ZBONY-8rdwObbxgMu1SzcIc06da8KcV",
+    "version": "1.0",
+    "iconUrl": "https://MertOzdem.github.io/main/icons/magic_crush.png",
+    "iconVersion": "1.0",
+    "tags": ["Oyun"]
+  },
+  {
     "id": "balon",
     "title": "Balonlar",
     "subtitle": "",
