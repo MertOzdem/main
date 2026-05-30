@@ -48,6 +48,18 @@
     "tags": ["Oyun"]
   },
   {
+    "id": "balon",
+    "title": "Balonlar",
+    "subtitle": "",
+    "path": "Balon/Balon.exe",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=1S5s7QYkt9FOLm10xCKh-mQdqe8pW5NIl",
+    "updateUrl": "https://drive.google.com/uc?export=download&id=1S5s7QYkt9FOLm10xCKh-mQdqe8pW5NIl",
+    "version": "1.0",
+    "iconUrl": "https://MertOzdem.github.io/main/icons/balon.png",
+    "iconVersion": "1.0",
+    "tags": ["Oyun"]
+  },
+  {
     "id": "magic_crush",
     "title": "Magic Crush",
     "subtitle": "",
@@ -60,14 +72,14 @@
     "tags": ["Oyun"]
   },
   {
-    "id": "balon",
-    "title": "Balonlar",
+    "id": "goblinler",
+    "title": "Goblinler",
     "subtitle": "",
-    "path": "Balon/Balon.exe",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1S5s7QYkt9FOLm10xCKh-mQdqe8pW5NIl",
-    "updateUrl": "https://drive.google.com/uc?export=download&id=1S5s7QYkt9FOLm10xCKh-mQdqe8pW5NIl",
+    "path": "Goblinler/Goblinler.exe",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=1prxm_B4vkzbuyCyWYwz10S0AuJWO1U0z",
+    "updateUrl": "https://drive.google.com/uc?export=download&id=1prxm_B4vkzbuyCyWYwz10S0AuJWO1U0z",
     "version": "1.0",
-    "iconUrl": "https://MertOzdem.github.io/main/icons/balon.png",
+    "iconUrl": "https://MertOzdem.github.io/main/icons/goblinler.png",
     "iconVersion": "1.0",
     "tags": ["Oyun"]
   },
