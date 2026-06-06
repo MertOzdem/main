@@ -84,6 +84,18 @@
     "tags": ["Oyun"]
   },
   {
+    "id": "cute_birds",
+    "title": "Sevimli Kuşlar",
+    "subtitle": "",
+    "path": "Cute Birds/Cute Birds.exe",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=16tInAB8LWiBtwgXVYXXl_fmMN1lkQ7My",
+    "updateUrl": "https://drive.google.com/uc?export=download&id=16tInAB8LWiBtwgXVYXXl_fmMN1lkQ7My",
+    "version": "1.0",
+    "iconUrl": "https://MertOzdem.github.io/main/icons/cute_birds.png",
+    "iconVersion": "1.0",
+    "tags": ["Oyun"]
+  },
+  {
     "id": "harfler_tr",
     "title": "Harfler - Türkçe",
     "subtitle": "",
