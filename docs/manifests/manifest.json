@@ -96,6 +96,18 @@
     "tags": ["Oyun"]
   },
   {
+    "id": "kart_cevirme",
+    "title": "Eşini Bul",
+    "subtitle": "",
+    "path": "Kart Cevirme/Kart Cevirme.exe",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=1igQIgIduTzjj6CAiyZ953nBscta1QeHE",
+    "updateUrl": "https://drive.google.com/uc?export=download&id=1igQIgIduTzjj6CAiyZ953nBscta1QeHE",
+    "version": "1.0",
+    "iconUrl": "https://MertOzdem.github.io/main/icons/kart_cevirme.png",
+    "iconVersion": "1.0",
+    "tags": ["Oyun"]
+  },
+  {
     "id": "harfler_tr",
     "title": "Harfler - Türkçe",
     "subtitle": "",
