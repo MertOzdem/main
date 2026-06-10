@@ -107,6 +107,18 @@
     "iconVersion": "1.0",
     "tags": ["Oyun"]
   },
+   {
+    "id": "xox_oyunu",
+    "title": "X O X",
+    "subtitle": "",
+    "path": "XOX Oyunu/XOX Oyunu.exe",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=1RS8ltfbbo9lu89qp16opUKc8QBXgQXRT",
+    "updateUrl": "https://drive.google.com/uc?export=download&id=1RS8ltfbbo9lu89qp16opUKc8QBXgQXRT",
+    "version": "1.0",
+    "iconUrl": "https://MertOzdem.github.io/main/icons/xox_oyunu.png",
+    "iconVersion": "1.0",
+    "tags": ["Oyun"]
+  },
   {
     "id": "harfler_tr",
     "title": "Harfler - Türkçe",
