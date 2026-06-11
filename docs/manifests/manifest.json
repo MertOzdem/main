@@ -430,5 +430,29 @@
     "iconUrl": "https://MertOzdem.github.io/main/icons/cikarma.png",
     "iconVersion": "1.0",
     "tags": ["Egitici","EN"]
+  },
+  {
+    "id": "oruntuler_kolay",
+    "title": "Örüntüler - Kolay",
+    "subtitle": "",
+    "path": "Oruntuler Kolay/Oruntuler Kolay.exe",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=1y2hF9ddW7tMxMWdAM8SKlkaBLoeSmxZ2",
+    "updateUrl": "https://drive.google.com/uc?export=download&id=1y2hF9ddW7tMxMWdAM8SKlkaBLoeSmxZ2",
+    "version": "1.0",
+    "iconUrl": "https://MertOzdem.github.io/main/icons/oruntuler_kolay.png",
+    "iconVersion": "1.0",
+    "tags": ["Egitici","TR"]
+  },
+  {
+    "id": "oruntuler_orta",
+    "title": "Örüntüler - Orta",
+    "subtitle": "",
+    "path": "Oruntuler Orta/Oruntuler Orta.exe",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=106WahsAZR3WjYFL_jqBsC_nBz6TFCsno",
+    "updateUrl": "https://drive.google.com/uc?export=download&id=106WahsAZR3WjYFL_jqBsC_nBz6TFCsno",
+    "version": "1.0",
+    "iconUrl": "https://MertOzdem.github.io/main/icons/oruntuler_orta.png",
+    "iconVersion": "1.0",
+    "tags": ["Egitici","TR"]
   }
 ]
