@@ -454,5 +454,29 @@
     "iconUrl": "https://MertOzdem.github.io/main/icons/oruntuler_orta.png",
     "iconVersion": "1.0",
     "tags": ["Egitici","TR"]
+  },
+  {
+    "id": "mevsimler_tr",
+    "title": "Mevsimler - Türkçe",
+    "subtitle": "",
+    "path": "Mevsimler TR/Mevsimler TR.exe",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=1iSUpOnDSTAn5V3hJyVIOP0zQovYMB0VI",
+    "updateUrl": "https://drive.google.com/uc?export=download&id=1iSUpOnDSTAn5V3hJyVIOP0zQovYMB0VI",
+    "version": "1.0",
+    "iconUrl": "https://MertOzdem.github.io/main/icons/mwvsimler.png",
+    "iconVersion": "1.0",
+    "tags": ["Egitici","TR"]
+  },
+  {
+    "id": "mevsimler_en",
+    "title": "Mevsimler - İngilizce",
+    "subtitle": "",
+    "path": "Mevsimler EN/Mevsimler EN.exe",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=1pdTxCox3oGPAsS8SKls0HCCX68PXyGXN",
+    "updateUrl": "https://drive.google.com/uc?export=download&id=1pdTxCox3oGPAsS8SKls0HCCX68PXyGXN",
+    "version": "1.0",
+    "iconUrl": "https://MertOzdem.github.io/main/icons/mwvsimler.png",
+    "iconVersion": "1.0",
+    "tags": ["Egitici","TR"]
   }
 ]
