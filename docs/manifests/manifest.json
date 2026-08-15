@@ -8,7 +8,7 @@
     "updateUrl": "https://drive.google.com/uc?export=download&id=1FvELDjvf5iTZ9an5MhJcu35pvd5aAwc8",
     "version": "1.0",
     "iconUrl": "https://MertOzdem.github.io/main/icons/kartopu_oyunu.png",
-    "iconVersion": "4.0",
+    "iconVersion": "1.0",
     "tags": ["Oyun"]
   },
   {
@@ -20,7 +20,7 @@
     "updateUrl": "https://drive.google.com/uc?export=download&id=1S_mxqv40FIWup2dBG05bs6MCLelvDjd6",
     "version": "1.0",
     "iconUrl": "https://MertOzdem.github.io/main/icons/kostebek.png",
-    "iconVersion": "2.0",
+    "iconVersion": "1.0",
     "tags": ["Oyun"]
   },
   {
@@ -478,5 +478,101 @@
     "iconUrl": "https://MertOzdem.github.io/main/icons/mevsimler.png",
     "iconVersion": "1.0",
     "tags": ["Egitici","TR"]
+  },
+  {
+    "id": "vucudumuzu_taniyalim_tr",
+    "title": "Vücudumuzu Tanıyalım - TR",
+    "subtitle": "",
+    "path": "Vucudumuzu Taniyalim TR/Vucudumuzu Taniyalim TR.exe",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=1zGVJWw7dIWgiAPiaUHbOc1cRPzFJaTbZ",
+    "updateUrl": "https://drive.google.com/uc?export=download&id=1zGVJWw7dIWgiAPiaUHbOc1cRPzFJaTbZ",
+    "version": "1.0",
+    "iconUrl": "https://MertOzdem.github.io/main/icons/vucudumuzu_taniyalim.png",
+    "iconVersion": "1.0",
+    "tags": ["Egitici","TR"]
+  },
+  {
+    "id": "vucudumuzu_taniyalim_en",
+    "title": "Vücudumuzu Tanıyalım - EN",
+    "subtitle": "",
+    "path": "Vucudumuzu Taniyalim EN/Vucudumuzu Taniyalim EN.exe",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=1wU28vaKt5hclEqbZug9x08bEbT9r336i",
+    "updateUrl": "https://drive.google.com/uc?export=download&id=1wU28vaKt5hclEqbZug9x08bEbT9r336i",
+    "version": "1.0",
+    "iconUrl": "https://MertOzdem.github.io/main/icons/vucudumuzu_taniyalim.png",
+    "iconVersion": "1.0",
+    "tags": ["Egitici","EN"]
+  },
+  {
+    "id": "vucudumuzu_taniyalim_quiz_tr",
+    "title": "Vücudumuzu Tanıyalım Quiz - TR",
+    "subtitle": "",
+    "path": "Vucudumuzu Taniyalim Quiz TR/Vucudumuzu Taniyalim Quiz TR.exe",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=1S6pX8DKySpm39xW5uqaPgO7xIF4lGT45",
+    "updateUrl": "https://drive.google.com/uc?export=download&id=1S6pX8DKySpm39xW5uqaPgO7xIF4lGT45",
+    "version": "1.0",
+    "iconUrl": "https://MertOzdem.github.io/main/icons/vucudumuzu_taniyalim_quiz.png",
+    "iconVersion": "1.0",
+    "tags": ["Egitici","TR"]
+  },
+  {
+    "id": "vucudumuzu_taniyalim_quiz_en",
+    "title": "Vücudumuzu Tanıyalım Quiz - EN",
+    "subtitle": "",
+    "path": "Vucudumuzu Taniyalim Quiz EN/Vucudumuzu Taniyalim Quiz EN.exe",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=1fkAiwCRMQij63_s4fgMOQiocEOkr8VhI",
+    "updateUrl": "https://drive.google.com/uc?export=download&id=1fkAiwCRMQij63_s4fgMOQiocEOkr8VhI",
+    "version": "1.0",
+    "iconUrl": "https://MertOzdem.github.io/main/icons/vucudumuzu_taniyalim_quiz.png",
+    "iconVersion": "1.0",
+    "tags": ["Egitici","EN"]
+  },
+  {
+    "id": "sinif_esyalari_tr",
+    "title": "Sınıf Eşyaları - TR",
+    "subtitle": "",
+    "path": "Sinif Esyalari TR/Sinif Esyalari TR.exe",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=1VJjmpSpPfOqgrBxsgN_bFqlS_RyYo_Go",
+    "updateUrl": "https://drive.google.com/uc?export=download&id=1VJjmpSpPfOqgrBxsgN_bFqlS_RyYo_Go",
+    "version": "1.0",
+    "iconUrl": "https://MertOzdem.github.io/main/icons/sinif_esyalari.png",
+    "iconVersion": "1.0",
+    "tags": ["Egitici","TR"]
+  },
+  {
+    "id": "sinif_esyalari_en",
+    "title": "Sınıf Eşyaları - EN",
+    "subtitle": "",
+    "path": "Sinif Esyalari EN/Sinif Esyalari EN.exe",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=1XsnefUWOd9rHtITd_q7LvnFwe4GFuPwk",
+    "updateUrl": "https://drive.google.com/uc?export=download&id=1XsnefUWOd9rHtITd_q7LvnFwe4GFuPwk",
+    "version": "1.0",
+    "iconUrl": "https://MertOzdem.github.io/main/icons/sinif_esyalari.png",
+    "iconVersion": "1.0",
+    "tags": ["Egitici","EN"]
+  },
+  {
+    "id": "sinif_esyalari_quiz_tr",
+    "title": "Sınıf Eşyaları Quiz - TR",
+    "subtitle": "",
+    "path": "Sinif Esyalari Quiz TR/Sinif Esyalari Quiz TR.exe",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=1tZoSRpkHMrVa9AXM7eDlrvvcD3eGjuzL",
+    "updateUrl": "https://drive.google.com/uc?export=download&id=1tZoSRpkHMrVa9AXM7eDlrvvcD3eGjuzL",
+    "version": "1.0",
+    "iconUrl": "https://MertOzdem.github.io/main/icons/sinif_esylari_quiz.png",
+    "iconVersion": "1.0",
+    "tags": ["Egitici","TR"]
+  },
+  {
+    "id": "sinif_esyalari_quiz_en",
+    "title": "Sınıf Eşyaları Quiz - EN",
+    "subtitle": "",
+    "path": "Sinif Esyalari Quiz EN/Sinif Esyalari Quiz EN.exe",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=1HbaIEK5lfmnkFCEExdJry2I99Xxdb5th",
+    "updateUrl": "https://drive.google.com/uc?export=download&id=1HbaIEK5lfmnkFCEExdJry2I99Xxdb5th",
+    "version": "1.0",
+    "iconUrl": "https://MertOzdem.github.io/main/icons/sinif_esylari_quiz.png",
+    "iconVersion": "1.0",
+    "tags": ["Egitici","EN"]
   }
 ]
