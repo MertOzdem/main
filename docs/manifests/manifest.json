@@ -670,5 +670,19 @@
     "tags": ["Egitici","EN"],
     "downloadUrl2": "https://drive.google.com/uc?export=download&id=1HbaIEK5lfmnkFCEExdJry2I99Xxdb5th",
     "updateUrl2": "https://drive.google.com/uc?export=download&id=1HbaIEK5lfmnkFCEExdJry2I99Xxdb5th"
+  },
+  {
+    "id": "3d_test",
+    "title": "3D Test",
+    "subtitle": "",
+    "path": "3D Test/Test.exe",
+    "downloadUrl": "https://game-module-games.mertozdem408.workers.dev/games/3d_test.zip",
+    "downloadUrl2": "https://drive.google.com/uc?export=download&id=148qHWH6BPoRrdkY0FRsvvSGDcz2OvpUa",
+    "updateUrl": "https://game-module-games.mertozdem408.workers.dev/games/3d_test.zip",
+    "updateUrl2": "https://drive.google.com/uc?export=download&id=148qHWH6BPoRrdkY0FRsvvSGDcz2OvpUa",
+    "version": "1.0",
+    "iconUrl": "https://MertOzdem.github.io/main/icons/game_module_test.png",
+    "iconVersion": "1.0",
+    "tags": ["Oyun"]
   }
 ]
