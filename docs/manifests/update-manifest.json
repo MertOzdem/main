@@ -1,6 +1,7 @@
-﻿{
-    "sha256":  "",
-    "version":  "3.4",
-    "downloadUrl":  "https://drive.google.com/uc?export=download\u0026id=12UgHhb0XEon8RotJPyocHpY92fx5TULR",
-    "notes":  "İyileştirmeler yapıldı."
+{
+  "version": "3.7",
+  "downloadUrl": "https://game-module-games.mertozdem408.workers.dev/updates/GameModuleSetupV3.7.zip",
+  "downloadUrl2": "",
+  "sha256": "c9f1fef94e5fb530b42a6f3e834eb5f30c1c04b3058864ddfc19e8926eff3c7d",
+  "notes": "İyileştirmeler yapıldı."
 }
