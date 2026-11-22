@@ -684,5 +684,19 @@
     "iconUrl": "https://MertOzdem.github.io/main/icons/neon_clash.png",
     "iconVersion": "1.0",
     "tags": ["Oyun"]
+  },
+  {
+    "id": "neon_maze_defense",
+    "title": "Neon Maze Defense",
+    "subtitle": "",
+    "path": "Neon Maze Defense/Neon Maze Defense.exe",
+    "downloadUrl": "https://game-module-games.mertozdem408.workers.dev/games/neon_maze_defense.zip",
+    "downloadUrl2": "https://drive.google.com/uc?export=download&id=1Qh_7wUrj6wPDdnxLwbhHsULwriADYx4O",
+    "updateUrl": "https://game-module-games.mertozdem408.workers.dev/games/neon_maze_defense.zip",
+    "updateUrl2": "https://drive.google.com/uc?export=download&id=1Qh_7wUrj6wPDdnxLwbhHsULwriADYx4O",
+    "version": "1.0",
+    "iconUrl": "https://MertOzdem.github.io/main/icons/neon_maze_defense.png",
+    "iconVersion": "1.0",
+    "tags": ["Oyun"]
   }
 ]
